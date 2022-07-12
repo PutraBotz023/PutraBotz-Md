@@ -5,12 +5,12 @@ let pepe = pp ? await (await fetch(pp)).buffer() : Buffer.alloc(0)
 let str = ` ${conn.getName(m.sender)} Want Support Bot?
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
 ┌〔 Donasi • Emoney 〕
-├ Dana : 085713041886
-├ Indosat : 08159917553
+├ Dana : 083856051043
+├ Axsis : 083840600765
 └────
 Berapapun donasi kalian akan sangat berarti 👍
 *Contact person Owner:*
-wa.me/6285713041886 (Fachri)`
+wa.me/6283840600765 (Putra)`
 conn.sendHydrated(m.chat, str, wm, './media/IMG-20220706-WA0063.jpg', 'https://github.com/Ipulpachri', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
